@@ -1,0 +1,67 @@
+[
+    {
+      "id": "DEV-001",
+      "name": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "foundedYear": 1988,
+      "logoUrl": "https://example.com/images/developers/rockstar-north-logo.jpg",
+      "slogan": "Outlaws to the End"
+    },
+    {
+      "id": "DEV-002",
+      "name": "Mojang Studios",
+      "publisher": "Mojang Studios",
+      "foundedYear": 2009,
+      "logoUrl": "https://example.com/images/developers/mojang-logo.jpg",
+      "slogan": "Unleashing Creativity, One Block at a Time"
+    },
+    {
+      "id": "DEV-003",
+      "name": "HoYoverse",
+      "publisher": "HoYoverse",
+      "foundedYear": 2011,
+      "logoUrl": "https://example.com/images/developers/hoyoverse-logo.jpg",
+      "slogan": "Tech Otakus Save the World"
+    },
+    {
+      "id": "DEV-004",
+      "name": "Spike",
+      "publisher": "Bandai Namco Entertainment",
+      "foundedYear": 1989,
+      "logoUrl": "https://example.com/images/developers/spike-logo.jpg",
+      "slogan": "Bringing Anime Worlds to Life"
+    },
+    {
+      "id": "DEV-005",
+      "name": "The Behemoth",
+      "publisher": "The Behemoth",
+      "foundedYear": 2003,
+      "logoUrl": "https://example.com/images/developers/behemoth-logo.jpg",
+      "slogan": "Handcrafted Indie Adventures"
+    },
+    {
+      "id": "DEV-006",
+      "name": "Psyonix",
+      "publisher": "Psyonix",
+      "foundedYear": 2000,
+      "logoUrl": "https://example.com/images/developers/psyonix-logo.jpg",
+      "slogan": "Car Soccer Done Right"
+    },
+    {
+      "id": "DEV-007",
+      "name": "Riot Games",
+      "publisher": "Riot Games",
+      "foundedYear": 2006,
+      "logoUrl": "https://example.com/images/developers/riot-games-logo.jpg",
+      "slogan": "For Gamers. By Gamers."
+    },
+    {
+      "id": "DEV-008",
+      "name": "Electronic Arts",
+      "publisher": "Electronic Arts",
+      "foundedYear": 1982,
+      "logoUrl": "https://example.com/images/developers/ea-logo.jpg",
+      "slogan": "Challenge Everything"
+    }
+  ]
+  

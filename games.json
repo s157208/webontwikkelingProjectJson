@@ -1,0 +1,193 @@
+[
+    {
+      "id": "GAME-001",
+      "title": "Grand Theft Auto V",
+      "description": "An open-world action-adventure game set in the sprawling city of Los Santos, filled with heists, crime, and an engaging storyline.",
+      "releaseYear": 2013,
+      "isActive": true,
+      "releaseDate": "2013-09-17",
+      "imageUrl": "https://example.com/images/games/gta5.jpg",
+      "genre": "Action-Adventure",
+      "platforms": ["PC", "PlayStation", "Xbox"],
+      "developer": {
+        "id": "DEV-001",
+        "name": "Rockstar North",
+        "publisher": "Rockstar Games",
+        "foundedYear": 1988,
+        "logoUrl": "https://example.com/images/developers/rockstar-north-logo.jpg",
+        "slogan": "Outlaws to the End"
+      }
+    },
+    {
+      "id": "GAME-002",
+      "title": "Minecraft",
+      "description": "A sandbox survival and building game that allows players to explore infinite worlds, mine resources, and create structures.",
+      "releaseYear": 2011,
+      "isActive": true,
+      "releaseDate": "2011-11-18",
+      "imageUrl": "https://example.com/images/games/minecraft.jpg",
+      "genre": "Sandbox",
+      "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+      "developer": {
+        "id": "DEV-002",
+        "name": "Mojang Studios",
+        "publisher": "Mojang Studios",
+        "foundedYear": 2009,
+        "logoUrl": "https://example.com/images/developers/mojang-logo.jpg",
+        "slogan": "Unleashing Creativity, One Block at a Time"
+      }
+    },
+    {
+      "id": "GAME-003",
+      "title": "Genshin Impact",
+      "description": "An open-world action RPG with an anime-inspired art style and a deep elemental combat system.",
+      "releaseYear": 2020,
+      "isActive": true,
+      "releaseDate": "2020-09-28",
+      "imageUrl": "https://example.com/images/games/genshin-impact.jpg",
+      "genre": "Action RPG",
+      "platforms": ["PC", "PlayStation", "Mobile"],
+      "developer": {
+        "id": "DEV-003",
+        "name": "HoYoverse",
+        "publisher": "HoYoverse",
+        "foundedYear": 2011,
+        "logoUrl": "https://example.com/images/developers/hoyoverse-logo.jpg",
+        "slogan": "Tech Otakus Save the World"
+      }
+    },
+    {
+      "id": "GAME-004",
+      "title": "Dragon Ball: Raging Blast 2",
+      "description": "A 3D fighting game based on the Dragon Ball universe, featuring intense battles and over-the-top special moves.",
+      "releaseYear": 2010,
+      "isActive": false,
+      "releaseDate": "2010-11-02",
+      "imageUrl": "https://example.com/images/games/dragonball-rb2.jpg",
+      "genre": "Fighting",
+      "platforms": ["PlayStation", "Xbox"],
+      "developer": {
+        "id": "DEV-004",
+        "name": "Spike",
+        "publisher": "Bandai Namco Entertainment",
+        "foundedYear": 1989,
+        "logoUrl": "https://example.com/images/developers/spike-logo.jpg",
+        "slogan": "Bringing Anime Worlds to Life"
+      }
+    },
+    {
+      "id": "GAME-005",
+      "title": "Castle Crashers",
+      "description": "A side-scrolling beat 'em up with RPG elements, featuring cooperative gameplay and a quirky medieval fantasy setting.",
+      "releaseYear": 2008,
+      "isActive": true,
+      "releaseDate": "2008-08-27",
+      "imageUrl": "https://example.com/images/games/castle-crashers.jpg",
+      "genre": "Beat 'em Up",
+      "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+      "developer": {
+        "id": "DEV-005",
+        "name": "The Behemoth",
+        "publisher": "The Behemoth",
+        "foundedYear": 2003,
+        "logoUrl": "https://example.com/images/developers/behemoth-logo.jpg",
+        "slogan": "Handcrafted Indie Adventures"
+      }
+    },
+    {
+      "id": "GAME-006",
+      "title": "Rocket League",
+      "description": "A unique sports-action game where players control rocket-powered cars in high-octane soccer matches.",
+      "releaseYear": 2015,
+      "isActive": true,
+      "releaseDate": "2015-07-07",
+      "imageUrl": "https://example.com/images/games/rocket-league.jpg",
+      "genre": "Sports",
+      "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+      "developer": {
+        "id": "DEV-006",
+        "name": "Psyonix",
+        "publisher": "Psyonix",
+        "foundedYear": 2000,
+        "logoUrl": "https://example.com/images/developers/psyonix-logo.jpg",
+        "slogan": "Car Soccer Done Right"
+      }
+    },
+    {
+      "id": "GAME-007",
+      "title": "League of Legends",
+      "description": "A competitive online multiplayer battle arena game where teams of champions fight to destroy the enemy Nexus.",
+      "releaseYear": 2009,
+      "isActive": true,
+      "releaseDate": "2009-10-27",
+      "imageUrl": "https://example.com/images/games/lol.jpg",
+      "genre": "MOBA",
+      "platforms": ["PC"],
+      "developer": {
+        "id": "DEV-007",
+        "name": "Riot Games",
+        "publisher": "Riot Games",
+        "foundedYear": 2006,
+        "logoUrl": "https://example.com/images/developers/riot-games-logo.jpg",
+        "slogan": "For Gamers. By Gamers."
+      }
+    },
+    {
+      "id": "GAME-008",
+      "title": "Valorant",
+      "description": "A tactical first-person shooter with unique agents, precise gunplay, and strategic gameplay.",
+      "releaseYear": 2020,
+      "isActive": true,
+      "releaseDate": "2020-06-02",
+      "imageUrl": "https://example.com/images/games/valorant.jpg",
+      "genre": "FPS",
+      "platforms": ["PC"],
+      "developer": {
+        "id": "DEV-007",
+        "name": "Riot Games",
+        "publisher": "Riot Games",
+        "foundedYear": 2006,
+        "logoUrl": "https://example.com/images/developers/riot-games-logo.jpg",
+        "slogan": "For Gamers. By Gamers."
+      }
+    },
+    {
+      "id": "GAME-009",
+      "title": "BattleBlock Theater",
+      "description": "A quirky 2D platformer where players must navigate deadly traps, solve puzzles, and survive in a mysterious theater controlled by evil cats.",
+      "releaseYear": 2013,
+      "isActive": true,
+      "releaseDate": "2013-04-03",
+      "imageUrl": "https://example.com/images/games/battleblock-theater.jpg",
+      "genre": "Platformer",
+      "platforms": ["PC", "Xbox"],
+      "developer": {
+      "id": "DEV-005",
+      "name": "The Behemoth",
+      "publisher": "The Behemoth",
+      "foundedYear": 2003,
+      "logoUrl": "https://example.com/images/developers/behemoth-logo.jpg",
+      "slogan": "Handcrafted Indie Adventures"
+    }
+    },
+    {
+        "id": "GAME-010",
+        "title": "Need for Speed Unbound",
+        "description": "A high-speed street racing game with an artistic graffiti-inspired style, intense police chases, and deep vehicle customization.",
+        "releaseYear": 2022,
+        "isActive": true,
+        "releaseDate": "2022-12-02",
+        "imageUrl": "https://example.com/images/games/nfs-unbound.jpg",
+        "genre": "Racing",
+        "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "developer": {
+          "id": "DEV-008",
+          "name": "Electronic Arts",
+          "publisher": "Electronic Arts",
+          "foundedYear": 1982,
+          "logoUrl": "https://example.com/images/developers/ea-logo.jpg",
+          "slogan": "Challenge Everything"
+        }
+      }
+  ]
+  
