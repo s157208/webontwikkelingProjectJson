@@ -6,7 +6,7 @@
       "releaseYear": 2013,
       "isActive": true,
       "releaseDate": "2013-09-17",
-      "imageUrl": "https://example.com/images/games/gta5.jpg",
+      "imageUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Gta5.jpg?raw=true",
       "genre": "Action-Adventure",
       "platforms": ["PC", "PlayStation", "Xbox"],
       "developer": {
@@ -14,7 +14,7 @@
         "name": "Rockstar North",
         "publisher": "Rockstar Games",
         "foundedYear": 1988,
-        "logoUrl": "https://example.com/images/developers/rockstar-north-logo.jpg",
+        "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/RockstarGames.jpg?raw=true",
         "slogan": "Outlaws to the End"
       }
     },
@@ -25,7 +25,7 @@
       "releaseYear": 2011,
       "isActive": true,
       "releaseDate": "2011-11-18",
-      "imageUrl": "https://example.com/images/games/minecraft.jpg",
+      "imageUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Minecraft.jpg?raw=true",
       "genre": "Sandbox",
       "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
       "developer": {
@@ -33,7 +33,7 @@
         "name": "Mojang Studios",
         "publisher": "Mojang Studios",
         "foundedYear": 2009,
-        "logoUrl": "https://example.com/images/developers/mojang-logo.jpg",
+        "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Mojang.jpg?raw=true",
         "slogan": "Unleashing Creativity, One Block at a Time"
       }
     },
@@ -44,7 +44,7 @@
       "releaseYear": 2020,
       "isActive": true,
       "releaseDate": "2020-09-28",
-      "imageUrl": "https://example.com/images/games/genshin-impact.jpg",
+      "imageUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/GenshinImpact.jpg?raw=true",
       "genre": "Action RPG",
       "platforms": ["PC", "PlayStation", "Mobile"],
       "developer": {
@@ -52,7 +52,7 @@
         "name": "HoYoverse",
         "publisher": "HoYoverse",
         "foundedYear": 2011,
-        "logoUrl": "https://example.com/images/developers/hoyoverse-logo.jpg",
+        "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/HoYoverse.jpg?raw=true",
         "slogan": "Tech Otakus Save the World"
       }
     },
@@ -63,7 +63,7 @@
       "releaseYear": 2010,
       "isActive": false,
       "releaseDate": "2010-11-02",
-      "imageUrl": "https://example.com/images/games/dragonball-rb2.jpg",
+      "imageUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/DragonBallRagingBlast2.jpg?raw=true",
       "genre": "Fighting",
       "platforms": ["PlayStation", "Xbox"],
       "developer": {
@@ -71,7 +71,7 @@
         "name": "Spike",
         "publisher": "Bandai Namco Entertainment",
         "foundedYear": 1989,
-        "logoUrl": "https://example.com/images/developers/spike-logo.jpg",
+        "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Spike.jpg?raw=true",
         "slogan": "Bringing Anime Worlds to Life"
       }
     },
@@ -82,7 +82,7 @@
       "releaseYear": 2008,
       "isActive": true,
       "releaseDate": "2008-08-27",
-      "imageUrl": "https://example.com/images/games/castle-crashers.jpg",
+      "imageUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/CastleCrashers.jpg?raw=true",
       "genre": "Beat 'em Up",
       "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
       "developer": {
@@ -90,7 +90,7 @@
         "name": "The Behemoth",
         "publisher": "The Behemoth",
         "foundedYear": 2003,
-        "logoUrl": "https://example.com/images/developers/behemoth-logo.jpg",
+        "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Thebehemoth.jpg?raw=true",
         "slogan": "Handcrafted Indie Adventures"
       }
     },
@@ -101,7 +101,7 @@
       "releaseYear": 2015,
       "isActive": true,
       "releaseDate": "2015-07-07",
-      "imageUrl": "https://example.com/images/games/rocket-league.jpg",
+      "imageUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/RocketLeague.jpg?raw=true",
       "genre": "Sports",
       "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
       "developer": {
@@ -109,7 +109,7 @@
         "name": "Psyonix",
         "publisher": "Psyonix",
         "foundedYear": 2000,
-        "logoUrl": "https://example.com/images/developers/psyonix-logo.jpg",
+        "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Psyonix.jpg?raw=true",
         "slogan": "Car Soccer Done Right"
       }
     },
@@ -120,7 +120,7 @@
       "releaseYear": 2009,
       "isActive": true,
       "releaseDate": "2009-10-27",
-      "imageUrl": "https://example.com/images/games/lol.jpg",
+      "imageUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/LeagueOfLegends.jpg?raw=true",
       "genre": "MOBA",
       "platforms": ["PC"],
       "developer": {
@@ -128,7 +128,7 @@
         "name": "Riot Games",
         "publisher": "Riot Games",
         "foundedYear": 2006,
-        "logoUrl": "https://example.com/images/developers/riot-games-logo.jpg",
+        "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/RiotGames.jpg?raw=true",
         "slogan": "For Gamers. By Gamers."
       }
     },
@@ -139,7 +139,7 @@
       "releaseYear": 2020,
       "isActive": true,
       "releaseDate": "2020-06-02",
-      "imageUrl": "https://example.com/images/games/valorant.jpg",
+      "imageUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Valorant.jpg?raw=true",
       "genre": "FPS",
       "platforms": ["PC"],
       "developer": {
@@ -147,7 +147,7 @@
         "name": "Riot Games",
         "publisher": "Riot Games",
         "foundedYear": 2006,
-        "logoUrl": "https://example.com/images/developers/riot-games-logo.jpg",
+        "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/RiotGames.jpg?raw=true",
         "slogan": "For Gamers. By Gamers."
       }
     },
@@ -158,7 +158,7 @@
       "releaseYear": 2013,
       "isActive": true,
       "releaseDate": "2013-04-03",
-      "imageUrl": "https://example.com/images/games/battleblock-theater.jpg",
+      "imageUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/BattleBlockTheater.jpg?raw=true",
       "genre": "Platformer",
       "platforms": ["PC", "Xbox"],
       "developer": {
@@ -166,7 +166,7 @@
       "name": "The Behemoth",
       "publisher": "The Behemoth",
       "foundedYear": 2003,
-      "logoUrl": "https://example.com/images/developers/behemoth-logo.jpg",
+      "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/Thebehemoth.jpg?raw=true",
       "slogan": "Handcrafted Indie Adventures"
     }
     },
@@ -177,7 +177,7 @@
         "releaseYear": 2022,
         "isActive": true,
         "releaseDate": "2022-12-02",
-        "imageUrl": "https://example.com/images/games/nfs-unbound.jpg",
+        "imageUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/NeedForSpeedUnbound.jpg?raw=true",
         "genre": "Racing",
         "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
         "developer": {
@@ -185,7 +185,7 @@
           "name": "Electronic Arts",
           "publisher": "Electronic Arts",
           "foundedYear": 1982,
-          "logoUrl": "https://example.com/images/developers/ea-logo.jpg",
+          "logoUrl": "https://github.com/s157208/webontwikkelingProjectJson/blob/main/img/ElectronicArts.jpg?raw=true",
           "slogan": "Challenge Everything"
         }
       }
